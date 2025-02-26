@@ -18,7 +18,7 @@ onMounted(async () => {
   userId.value = userData.uid;
   try {
     const response = await fetch(
-      `http://localhost:8080/get-items?UserId=${userId.value}`,
+      `http://senku-1e1b.onrender.com/get-items?UserId=${userId.value}`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
