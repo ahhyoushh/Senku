@@ -109,11 +109,11 @@ def list_item():
             "metadata" : metadata
         }
         item_ref.set(item_data)
-        async_send_email(item_data["userEmail"], status=item_data["status"], itemName=item_data["itemName"])
+        async_send_email(item_data["userEmail"], status=item_data["status"], item_name=item_data["itemName"])
 
         #notify_recycler()
         centerEmail = center["Email Address"]
-        async_send_newItem_email(itemCount=itemCount, itemName=itemName, center_email=centerEmail)
+        async_send_newItem_email(itemCount=itemCount, item_name=itemName, center_email=centerEmail)
         return jsonify({"message": "Item listed successfully", "itemId": item_id, "metadata": metadata, "refurbishable": refurbishable,"nearest_recycler":center })
     except Exception as e:
         return jsonify({"error": f"{e}"})
