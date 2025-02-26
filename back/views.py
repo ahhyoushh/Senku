@@ -113,7 +113,7 @@ def list_item():
 
         #notify_recycler()
         centerEmail = center["Email Address"]
-        async_send_newItem_email(itemCount=itemCount, item_name=itemName, center_email=centerEmail)
+        async_send_newItem_email(item_count=itemCount, item_name=itemName, center_email=centerEmail)
         return jsonify({"message": "Item listed successfully", "itemId": item_id, "metadata": metadata, "refurbishable": refurbishable,"nearest_recycler":center })
     except Exception as e:
         return jsonify({"error": f"{e}"})
