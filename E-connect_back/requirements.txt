@@ -3,5 +3,4 @@ firebase-admin
 google-generativeai
 Flask-Cors
 itsdangerous
-smtplib
-email
+

@@ -2,8 +2,10 @@ import json
 import google.generativeai as genai
 import json
 from math import radians, sin, cos, sqrt, atan2
+import os
 
-genai.configure(api_key="AIzaSyBEQpdova7p3Wea1d5ynFsbjSl0jQdtvOQ")
+api_fkey = os.getenv("GEMINI_KEY")
+genai.configure(api_key=api_fkey)
 
 REFERENCE_FILE = "data.txt"
 
