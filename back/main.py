@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, jsonify
 from views import views
 from flask_cors import CORS
@@ -20,4 +21,5 @@ def handle_preflight():
         return response, 200
 
 if __name__ == "__main__":
-    app.run()
+    port = int(os.getenv("PORT", 10000))  # Default to 10000 if PORT is not set
+    app.run(host="0.0.0.0", port=port, debug=True)
