@@ -137,7 +137,7 @@ def approve():
 
         if not item_doc.exists:
             return jsonify({"error": "Item does not exist"})
-        async_send_email(userEmail, status=item["status"], itemName=item["itemName"])
+        async_send_email(userEmail, status=item["status"], item_name=item["itemName"])
         return jsonify({"message": 'Successfully approved!' })
     except Exception as e:
         return jsonify({"error": f"{e}"})
