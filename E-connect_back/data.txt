@@ -1,0 +1,139 @@
+1. Item: Facsimile, EEE: ITEW10, Lifespan: 10 years
+2. Item: Telex, EEE: ITEW11, Lifespan: 5 years
+3. Item: Telephones, EEE: ITEW12, Lifespan: 9 years
+4. Item: Cellular Telephones : Feature Phones , EEE: ITEW15, Lifespan: 7 years
+5. Item: Refrigerator, EEE: CEEW2, Lifespan: 10 years
+6. Item: Washing Machine, EEE: CEEW3, Lifespan: 9 years
+7. Item: Tablets, I-PAD, EEE: ITEW19, Lifespan: 5 years
+8. Item: Phablets, EEE: ITEW20, Lifespan: 5 years
+9. Item: GPS, EEE: ITEW23, Lifespan: 5 years
+10. Item: Modems, EEE: ITEW26, Lifespan: 5 years
+11. Item: Digital Camera, EEE: CEEW19, Lifespan: 5 years
+12. Item: Automatic Dispensers for hot drinks, EEE: LSEEW25, Lifespan: 7 years
+13. Item: Products or equipment of Transmitting sound, images or other information by Telecommunications – Transmitters, EEE: ITEW17, Lifespan: 5 years
+14. Item: UPS -upto 2 KVA, EEE: ITEW24, Lifespan: 7 years
+15. Item: UPS -greater than 2 KVA, EEE: ITEW24, Lifespan: 10 years
+16. Item: INVERTER -upto 2 KVA, EEE: ITEW25, Lifespan: 7 years
+17. Item: INVERTER -greater than 2 KVA, EEE: ITEW25, Lifespan: 10 years
+18. Item: ELECTRONIC DATA STORAGE DEVICES FOR FLASH DRIVE (SMALL DEVICES), EEE: ITEW27, Lifespan: 5 years
+19. Item: Audio Amplifiers- Speakers, Multi Media Speaker, Home Theatre, Sound Bar, Wireless Speaker etc, EEE: CEEW12, Lifespan: 10 years
+20. Item: HDCOM USED FOR VIDEO CONFERENCING, EEE: CEEW13, Lifespan: 10 years
+21. Item: Other lighting or equipment for the purpose of spreading or controlling light excluding Filament Bulbs - LED Bulbs/Tubes/Consumer Luminaries & Consumer LED Drives, EEE: CEEW18, Lifespan: 4 years
+22. Item: Automatic Dispensers for hot or cold bottles or cans, EEE: LSEEW26, Lifespan: 7 years
+23. Item: Automatic Dispensers for solid products, EEE: LSEEW27, Lifespan: 10 years
+24. Item: Automatic Dispensers for money, EEE: LSEEW28, Lifespan: 10 years
+25. Item: Personal Computing: Personal Computers (Central Processing Unit with input and output devices), EEE: ITEW2, Lifespan: 6 years
+26. Item: Personal Computing: Laptop Computers (Central Processing Unit with input and output devices), EEE: ITEW3, Lifespan: 5 years
+27. Item: Personal Computing: Notepad Computers, EEE: ITEW5, Lifespan: 5 years
+28. Item: Printers including Cartridges, EEE: ITEW6, Lifespan: 10 years
+29. Item: Copying Equipment, EEE: ITEW7, Lifespan: 8 years
+30. Item: Electrical and Electronic Typewriters, EEE: ITEW8, Lifespan: 5 years
+31. Item: User Terminals and Systems, EEE: ITEW9, Lifespan: 6 years
+32. Item: Pay Telephones, EEE: ITEW13, Lifespan: 9 years
+33. Item: Cordless Telephones, EEE: ITEW14, Lifespan: 9 years
+34. Item: Answering Systems, EEE: ITEW16, Lifespan: 5 years
+35. Item: Air-conditioners excluding Centralized Air Conditioning Plants, EEE: CEEW4, Lifespan: 10 years
+36. Item: Products or equipment of Transmitting sound, images or other information by Telecommunications - Wi-Fi/wireless enabled Devices, EEE: ITEW17, Lifespan: 3 years
+37. Item: Products or equipment of Transmitting sound, images or other information by Telecommunications – Radio/Satellite Telephone, EEE: ITEW17, Lifespan: 7 years
+38. Item: Walkie Talkie, EEE: ITEW17, Lifespan: 5 years
+39. Item: BTS (all components excluding structure of tower), EEE: ITEW18, Lifespan: 15 years
+40. Item: Scanners, EEE: ITEW21, Lifespan: 5 years
+41. Item: Routers - Routers, Access Point and Controller, LAN Switches, SDWAN, ioT Gateway, etc, EEE: ITEW22, Lifespan: 10 years
+42. Item: Electronic Data Storage Devices for large drive like server, EEE: ITEW27, Lifespan: 10 years
+43. Item: Screen, Electronic Photo Frames, Electronic Display Panel, Monitors, EEE: CEEW6, Lifespan: 7 years
+44. Item: Radio Sets, EEE: CEEW7, Lifespan: 8 years
+45. Item: Set Top Boxes, EEE: CEEW8, Lifespan: 8 years
+46. Item: Video Cameras, EEE: CEEW9, Lifespan: 10 years
+47. Item: Video Recorders, EEE: CEEW10, Lifespan: 5 years
+48. Item: Hi-Fi Recorders, EEE: CEEW11, Lifespan: 5 years
+49. Item: Other Products or Equipment for the purpose of recording or reproducing sound or images 
+including signals and other technologies for the distribution of sound and image by telecommunications, EEE: CEEW13, Lifespan: 7 years
+50. Item: Other lighting or equipment for the purpose of spreading or controlling light excluding Filament Bulbs - Professionals Luminaries & Drives, EEE: CEEW18, Lifespan: 8 years
+51. Item: Iron and other appliances for ironing, mangling and other care of clothing - Dry Iron, EEE: LSEEW20, Lifespan: 15 years
+52. Item: Fluorescent and other Mercury containing lamps , EEE: CEEW5, Lifespan: 2 years
+53. Item: Other products or equipment for the purpose of recording or reproducing sound or images including signals and other technologies for the distribution of sound and image by telecommunications – Projector, EEE: CEEW13, Lifespan: 7 years
+54. Item: Other products or equipment for the purpose of recording or reproducing sound or images including signals and other technologies for the distribution of sound and image by telecommunications - Digital Sound and Video Recorder and Player , EEE: CEEW13, Lifespan: 7 years
+55. Item: Solar Panels/Cells, Solar Photovoltaic Panels/Cells/Modules., EEE: CEEW14, Lifespan: 15 years
+56. Item: Luminaires for fluorescent lamps with the exception of luminaires in households, EEE: CEEW15, Lifespan: 2 years
+57. Item: High intensity discharge lamps, including Pressure Sodium Lamps and Metal Halide Lamps , EEE: CEEW16, Lifespan: 2 years
+58. Item: Low pressure Sodium Lamps, EEE: CEEW17, Lifespan: 2 years
+59. Item: Freezers, EEE: LSEEW2, Lifespan: 10 years
+60. Item: Large cooling appliances, EEE: LSEEW1, Lifespan: 10 years
+61. Item: Other large appliances used for refrigeration, conservation and storage of food, EEE: LSEEW3, Lifespan: 10 years
+62. Item: Dish Washing Machines, EEE: LSEEW5, Lifespan: 10 years
+63. Item: Smoke Detector, EEE: LSEEW22, Lifespan: 10 years
+64. Item: Centralized Data Processing: Mainframe, EEE: ITEW1, Lifespan: 10 years
+65. Item: Centralized Data Processing: Minicomputers, EEE: ITEW1, Lifespan: 5 years
+66. Item: Personal Computing: Notebook Computers, EEE: ITEW4, Lifespan: 5 years
+67. Item: Cellular Telephones : Smart phones, EEE: ITEW15, Lifespan: 5 years
+68. Item: Television sets (including sets based on (Liquid Crystal Display and Light Emitting Diode technology), EEE: CEEW1, Lifespan: 9 years
+69. Item: Products or equipment of Transmitting sound, images or other information by Telecommunications and Bluetooth enabled devices - Smart Watch/ Fitness Band, Bluetooth Headset,Virtual Reality Camera, etc, EEE: ITEW17, Lifespan: 3 years
+70. Item: Products or equipment of Transmitting sound, images or other information by Telecommunications – Telecommunication Antenna , EEE: ITEW17, Lifespan: 7 years
+71. Item: Other Products or Equipment for the purpose of recording or reproducing sound or images including signals and other technologies for the distribution of sound and image by telecommunications - CCTV Camera with DVR & NVR, EEE: CEEW13, Lifespan: 7 years
+72. Item: Microwaves, Microwave Oven, EEE: LSEEW9, Lifespan: 10 years
+73. Item: Other large appliances used for cooking and other processing of food, EEE: LSEEW10, Lifespan: 10 years
+74. Item: Other appliances for cleaning, EEE: LSEEW18, Lifespan: 10 years
+75. Item: Other electric appliances/equipment/kits used for preventing, screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or disability including the Mobiles, Tablets or any other device with the features having the potential of sex selection and their accessories - X-Ray and Fluoroscopy, EEE: MDW10, Lifespan: 12 years
+76. Item: Computers for biking, diving, running, rowing, etc., EEE: TLSEW4, Lifespan: 5 years
+77. Item: Video Games, EEE: TLSEW3, Lifespan: 2 years
+78. Item: Electrical Trains or Car Racing Sets, EEE: TLSEW1, Lifespan: 2 years
+79. Item: Appliances used for sewing, knitting, weaving and other processing for textiles, EEE: LSEEW19, Lifespan: 7 years
+80. Item: Heating Regulators, EEE: LSEEW23, Lifespan: 5 years
+81. Item: Other large appliances for heating Rooms, Beds, Seating Furniture, EEE: LSEEW13, Lifespan: 7 years
+82. Item: Electric Fans, EEE: LSEEW14, Lifespan: 10 years
+83. Item: Vacuum Cleaners, EEE: LSEEW16, Lifespan: 10 years
+84. Item: Electric Cookers, EEE: LSEEW6, Lifespan: 7 years
+85. Item: Radiotherapy Equipment and Accessories, EEE: MDW1, Lifespan: 20 years
+86. Item: Cardiology Equipment and Accessories, EEE: MDW2, Lifespan: 10 years
+87. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - CT  , EEE: MDW8, Lifespan: 15 years
+88. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - Computed Tomography, EEE: MDW8, Lifespan: 20 years
+89. Item: Tools for welding, soldering, or similar use, EEE: EETW6, Lifespan: 10 years
+90. Item: Equipment for spraying, spreading, dispersing or other treatment of liquid or gaseous substance by other means , EEE: EETW7, Lifespan: 10 years
+91. Item: Tools for mowing or other gardening activities, EEE: EETW8, Lifespan: 10 years
+92. Item: Tools for riveting, nailing or screwing or removing rivets, nails, screws or similar uses, EEE: EETW5, Lifespan: 10 years
+93. Item: Drills, EEE: EETW1, Lifespan: 8 years
+94. Item: Saws, EEE: EETW2, Lifespan: 10 years
+95. Item: Sewing Machines, EEE: EETW3, Lifespan: 15 years
+96. Item: Indoor Air Purifier, EEE: LSEEW30, Lifespan: 10 years
+97. Item: Hair Dryer, EEE: LSEEW31, Lifespan: 5 years
+98. Item: Electric Shaver, EEE: LSEEW32, Lifespan: 5 years
+99. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - Ultrasound Diagnostic Imaging, EEE: MDW8, Lifespan: 10 years
+100. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - PET CT/PET  , EEE: MDW8, Lifespan: 20 years
+101. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - SPECT CT/ SPECT, EEE: MDW8, Lifespan: 20 years
+102. Item: Pulmonary ventilators and accessories - Anaesthesia & Respiratory, EEE: MDW4, Lifespan: 10 years
+103. Item: Dialysis Equipment and Accessories, EEE: MDW3, Lifespan: 10 years
+104. Item: Gas Analyser, EEE: LIW1, Lifespan: 8 years
+105. Item: Iron and other appliances for ironing, mangling and other care of clothing - Steam Iron/Garment Steamer, EEE: LSEEW20, Lifespan: 10 years
+106. Item: Electric Kettle, EEE: LSEEW33, Lifespan: 5 years
+107. Item: Other electric appliances/equipment/kits used for preventing, screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or disability including the Mobiles, Tablets or any other device with the features having the potential of sex selection and their accessories - Mammography Devices, EEE: MDW10, Lifespan: 12 years
+108. Item: Pulmonary Ventilators and Accessories - Diagnostic Cardiology, EEE: MDW4, Lifespan: 7 years
+109. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories - MRI, EEE: MDW8, Lifespan: 15 years
+110. Item: Equipment having Electrical and Electronic Components, EEE: LIW2, Lifespan: 8 years
+111. Item: Other Electric Appliances/Equipment/Kits used for preventing,
+ screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, 
+treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or 
+disability including the Mobiles, Tablets or any other device with the
+ features having the potential of sex selection and their accessories, EEE: MDW10, Lifespan: 7 years
+112. Item: Clothes Dryers, EEE: LSEEW4, Lifespan: 10 years
+113. Item: Hand-held Video Games Consoles, EEE: TLSEW2, Lifespan: 2 years
+114. Item: Sports Equipment with Electric or Electronic Components, EEE: TLSEW5, Lifespan: 5 years
+115. Item: Coin Slot Machines, EEE: TLSEW6, Lifespan: 8 years
+116. Item: Electric Stoves, EEE: LSEEW7, Lifespan: 7 years
+117. Item: Electric Hot Plates, EEE: LSEEW8, Lifespan: 5 years
+118. Item: Electric Heating Appliances, EEE: LSEEW11, Lifespan: 10 years
+119. Item: Electric Radiators, EEE: LSEEW12, Lifespan: 7 years
+120. Item: Other Fanning, exhaust Ventilation and Conditioning Equipment, EEE: LSEEW15, Lifespan: 10 years
+121. Item: Carpet Sweepers, EEE: LSEEW17, Lifespan: 10 years
+122. Item: Grinders, Coffee Machines and equipment for opening or sealing containers or packages, EEE: LSEEW21, Lifespan: 10 years
+123. Item: Thermostats, EEE: LSEEW24, Lifespan: 5 years
+124. Item: Electronic Display Panels/Board/Visual Display Unit, EEE: LSEEW34, Lifespan: 9 years
+125. Item: All appliances which deliver automatically all kinds of products, EEE: LSEEW29, Lifespan: 10 years
+126. Item: Nuclear Medicine Equipment and accessories, EEE: MDW5, Lifespan: 20 years
+127. Item: Laboratory Equipment for in Vitro Diagnosis and Accessories, EEE: MDW6, Lifespan: 15 years
+128. Item: Analysers and Accessories, EEE: MDW7, Lifespan: 10 years
+129. Item: Fertilization Tests Equipment and Accessories, EEE: MDW9, Lifespan: 10 years
+130. Item: Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET) Scanner, Computed Tomography Scanner, & Ultrasound Equipment along with accessories and US, probe etc, EEE: MDW8, Lifespan: 10 years
+131. Item: Other Electric appliances/equipment/kits used for preventing, screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or disability including the Mobiles, Tablets or any other device with the features having the potential of sex selection and their accessories - Monitoring Solution Products/High End, EEE: MDW10, Lifespan: 15 years
+132. Item: Other Electric Appliances/Equipment/Kits used for preventing, screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or disability including the Mobiles, Tablets or any other device with the features having the potential of sex selection and their accessories- Maternal & Infant Care Products, EEE: MDW10, Lifespan: 7 years
+133. Item: Other Electric Appliances/Equipment/Kits used for preventing, screening, detecting, monitoring, evaluating, reviewing, examining, investigating, probing, treating illness sickness, disease, disorder, affliction, infection, injury, trauma, abuse or disability including the Mobiles, Tablets or any other device with the features having the potential of sex selection and their accessories- C-Arm, EEE: MDW10, Lifespan: 12 years
+134. Item: Equipment for turning, milling, sanding, grinding, sawing, cutting, shearing, drilling, making holes, punching, folding, bending or similar processing of wood, metal and other materials, EEE: EETW4, Lifespan: 10 years

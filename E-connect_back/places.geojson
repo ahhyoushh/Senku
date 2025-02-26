@@ -1,0 +1,338 @@
+[   {  
+        "Name": "econnect",
+        "Address": "Aissms college",
+        "Regional Office": "Nigga",
+        "Type": "Recycler",
+        "Email Address": "bansodetanishk@gmail.com",
+        "Contact Number": "9322431437",
+        "coordinates": [
+            73.866200,
+            8.534600
+        ]
+
+    },   
+    {
+        "Name": "Hi-Tech Recycling (I) Pvt. Ltd",
+        "Address": "Property No. 193, Gat No. 89, Pune-Satara Road, Shindewadi, Tal: Bhor, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "manish@hitechrecycling.in",
+        "Contact Number": "9860602601",
+        "coordinates": [
+            73.85419612919007,
+            18.38760163336652
+        ]
+    },
+    {
+        "Name": "Sayma E-Waste Solutions",
+        "Address": "S. No. 323, Hissa no. 3, A Plot No. B-27, Urali Devashi, Tal. Haveli, Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "bansodetanishk@gmail.com",
+        "Contact Number": "9922763959",
+        "coordinates": [
+            73.86335957128554,
+            18.515755466670132
+        ]
+    },
+    {
+        "Name": "New India Recyclers",
+        "Address": "Plot No. 5 & 6, Gut No. 849/2728, Village Ambethan, Tal. Khed, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "info.newindiarecycle@gmail.com",
+        "Contact Number": "8928934040",
+        "coordinates": [
+            73.84179740657909,
+            18.68204989826548
+        ]
+    },
+    {
+        "Name": "Electrofine Recycling (OPC) Private Limited",
+        "Address": "Gut No. 386, Village Shindi Khurd, Tal. Maan, Dist. Satara",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "electrofinerecycling@gmail.com",
+        "Contact Number": "7397056189",
+        "coordinates": [
+            74.42470192730721,
+            17.789056286294205
+        ]
+    },
+    {
+        "Name": "Greenbay Enterprises",
+        "Address": "Shed No. 1, Ground Floor, Ganesh Nagar, Phursungi, Katraj Saswad Road, Pune Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "egreenbiry17@gmail.com",
+        "Contact Number": "9623300378",
+        "coordinates": [
+            73.97851265778517,
+            18.472863612639976
+        ]
+    },
+    {
+        "Name": "Green Enviro Management Solutions LLP",
+        "Address": "S. No. 51, Village Kenhe, Tal. Mawal, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "mail.gps@gmail.com",
+        "Contact Number": "9766110860",
+        "coordinates": [
+            73.59492736980016,
+            18.7661308277294
+        ]
+    },
+    {
+        "Name": "Pune Green Electronic Waste Behavior Pvt. Ltd",
+        "Address": "S. No. 29/9, Fansare Nagar, Yewlewadi, Pune, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Recycler",
+        "Email Address": "punegreensewaste@gmail.com",
+        "Contact Number": "9922071877",
+        "coordinates": [
+            73.88354789393236,
+            18.43495152219971
+        ]
+    },
+    {
+        "Name": "Sai Enterprises",
+        "Address": "Plot No. A-8, Gut No. 357/87, Waghjai Nagar, Kharabwadi, Chakan, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "dinesh_dpn@yahoo.co.in",
+        "Contact Number": "9881771133",
+        "coordinates": [
+            73.8258151848208,
+            18.766470829826503
+        ]
+    },
+    {
+        "Name": "Somnath Industries Pvt Ltd.",
+        "Address": "OS-56, J Block, Opp Alpha Foam, Old Landge Kusti Kendra, MIDC Bhosari, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "bansodetanishk@gmail.com",
+        "Contact Number": "7558426313",
+        "coordinates": [
+            73.84104783911128,
+            18.624942788804074
+        ]
+    },
+    {
+        "Name": "Bombay Scrap Traders",
+        "Address": "Gut No. 280, Opp. Indian Petrol Pump, NH-4, Village Sate, Tal. Mawal, Dist. Pune - 412106",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "bombaytraders78@gmail.com",
+        "Contact Number": "9820294042",
+        "coordinates": [
+            73.61999074142727,
+            18.784052172644063
+        ]
+    },
+    {
+        "Name": "Anand Computer System",
+        "Address": "2160 B, Sadashiv Peth, Swamunam Bldg. Shop No. 7,8,9, Pune - 411030",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "anandcomputer2000@yahoo.com",
+        "Contact Number": "9371015373",
+        "coordinates": [
+            73.84818245445018,
+            18.504158869250897
+        ]
+    },
+    {
+        "Name": "Grade Infratech Pvt. Ltd.",
+        "Address": "Gut No. 849, Near Mahindra CIE, Ambethan Chakan, Village Chakan, Tal. Khed, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "avanishsingh777@yahoo.com",
+        "Contact Number": "9326135646",
+        "coordinates": [
+            73.79856529682118,
+            18.796921536181397
+        ]
+    },
+    {
+        "Name": "Saraswati Enterprises",
+        "Address": "Gat No. 63, Dehu Alandi Road, Near Regal Petroleum, Jadhawadi Chikhali Pune 411062",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "saraswatie2@gmail.com",
+        "Contact Number": "9850417772",
+        "coordinates": [
+            73.82580379728928,
+            18.68270134912168
+        ]
+    },
+    {
+        "Name": "Aman Steel Enterprises",
+        "Address": "Gat No 879, Godown No 2, Near Rajhans Kata, Kudalwadi, Chikhali, Pune 411062",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "amansteel002@gmail.com",
+        "Contact Number": "9822816329",
+        "coordinates": [
+            73.81536693911286,
+            18.679394765433198
+        ]
+    },
+    {
+        "Name": "Voxon Comsof Pvt Ltd",
+        "Address": "Sr No 19/9 Indira College Road, Buchade Vasti Road, Tal. Mulshi Dist Pune, Manunji, Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "rajendrakale.vozon@gmail.com",
+        "Contact Number": "8600726007",
+        "coordinates": [
+            73.72850219678216,
+            18.612576530362755
+        ]
+    },
+    {
+        "Name": "Raza Enterprises",
+        "Address": "Sr. No. 124, Shed A, Gate No. 1, Khandve Nagar, Kharadi, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "razaentp1986@gmail.com",
+        "Contact Number": "9921002786",
+        "coordinates": [
+            73.90934961508209,
+            18.60487753397181
+        ]
+    },
+    {
+        "Name": "Poona E-waste Solutions",
+        "Address": "S. No. 322/2, Uruli Devachi, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "poonaewastesolutions@gmail.com",
+        "Contact Number": "8888999362",
+        "coordinates": [
+            73.9500229260133,
+            18.45863726943554
+        ]
+    },
+    {
+        "Name": "Roshani Scrap Center",
+        "Address": "Gut No. 879, Nurani Masjid, Kudalwadi, Chikhali, Pune-411062, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "roshaniscrappune@gmail.com",
+        "Contact Number": "9765615108",
+        "coordinates": [
+            73.80977388591405,
+            18.724643778951933
+        ]
+    },
+    {
+        "Name": "Kesariya Metal Conrporation",
+        "Address": "Gat No. 147, Shed No. 1, Mhalunge, Chakan, Tal. Khed, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "kmcpune017@gmail.com",
+        "Contact Number": "9422459362",
+        "coordinates": [
+            73.82341248634162,
+            18.763685965715183
+        ]
+    },
+    {
+        "Name": "Deshwal Waste Management Pvt. Ltd.",
+        "Address": "Gut No. 520, Shed-1, Behind Shell Petrol Pump, New Wagholi Road, Wagholi, Tal. Haveli, Dist.Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "anillnarang@rediffmail.com",
+        "Contact Number": "9910055057",
+        "coordinates": [
+            73.93726734585614,
+            18.562838971965032
+        ]
+    },
+    {
+        "Name": "Eco Tantra LLP.",
+        "Address": "S. No. 77/6, Vishnu Malti Industrial Estate, Shivane, Pune, Tal. & Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Refurbisher",
+        "Email Address": "richa@ecotantra.in",
+        "Contact Number": "8981473653",
+        "coordinates": [
+            73.79314735934662,
+            18.470031706495586
+        ]
+    },
+    {
+        "Name": "Mahalaxmi E- Recyclers Pvt. Ltd.",
+        "Address": "Plot No.77 & 78, Subplot No. 3A, Ramtekdi Industrial Area,Hadapsar, Tal. Haveli, Dist. Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "mpmehta_2000@yahoo.com ",
+        "Contact Number": "7276411826",
+        "coordinates": [
+            73.91533941886777,
+            18.497339277438318
+        ]
+    },
+    {
+        "Name": "Progressive Recycler LLP.",
+        "Address": "MIDC Chakan Industrial area (PH-II), D-45, Tal. Khed, Dist:-Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "progressiverecycler@gmail.com ",
+        "Contact Number": "9601262269",
+        "coordinates": [
+            73.7447242016854,
+            18.810952719159733
+        ]
+    },
+    {
+        "Name": "ARSH RECYCLING PRIVATE LIMITED.",
+        "Address": "GAT No. 1750, RANJANGAON GANPATI, PUNE NAGAR ROAD, Ranjangaon Ganpati, Pune - 412209",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "arshrecycling4@gmail.com",
+        "Contact Number": "7040691499",
+        "coordinates": [
+            74.24487572208896,
+            18.755180346415436
+        ]
+    },
+    {
+        "Name": "Kuldeep E-Waste Disposals",
+        "Address": "Sr. No.50, Waghjainagar, Mabegaon Khurd, Katraj-Ambegaon Road, Katraj, Pune - 411046",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "sagarscrap@gmail.com",
+        "Contact Number": "9850289885",
+        "coordinates": [
+            73.8506139043812,
+            18.432834539218298
+        ]
+    },
+    {
+        "Name": "Rajhans Ferrous Scrap Trade Pvt. Ltd.",
+        "Address": " Gut No 878, Kudalwadi, Pimpri Chinchwad, Haveli, district -Pune, Katraj, Pune - 411046",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "accounts@rajhanstrade.com",
+        "Contact Number": "9618785285",
+        "coordinates": [
+            73.81433759140425,
+            18.67851866646927
+        ]
+    },
+    {
+        "Name": "Muskmelon Envtech Pvt. Ltd.",
+        "Address": "Godown D-4, D-5, Dev Warehousing, Sai Sstyam Nagar, Nagar Road, Wagholi, Pune",
+        "Regional Office": "Pune",
+        "Type": "Dismantler",
+        "Email Address": "muskmelon050@gmail.com",
+        "Contact Number": "7040691499",
+        "coordinates": [
+            73.96082240859576,
+            18.576129607320023
+        ]
+    }
+]
