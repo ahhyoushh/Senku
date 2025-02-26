@@ -17,7 +17,8 @@ export default defineConfig({
   },
   server: {
     allowedHosts: [
-      '9050-115-114-63-254.ngrok-free.app'
+      '9050-115-114-63-254.ngrok-free.app',
+      'ewsenku.vercel.app'
     ],
     cors: true // Added to enable CORS for all origins
   }
