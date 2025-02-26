@@ -20,4 +20,4 @@ def handle_preflight():
         return response, 200
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port="0.0.0.0")
