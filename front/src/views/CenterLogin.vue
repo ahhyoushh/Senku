@@ -23,7 +23,7 @@
     methods: {
       async sendVerification() {
         try {
-          const response = await fetch(`http://localhost:8080/centers/send-verification`, {
+          const response = await fetch(`https://senku-1e1b.onrender.com/centers/send-verification`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",

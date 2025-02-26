@@ -18,7 +18,7 @@ onMounted(async () => {
   }
 
   try {
-    const response = await fetch(`http://localhost:8080/centers/verify/${token.value}`, {
+    const response = await fetch(`http://senku-1e1b.onrender.com/centers/verify/${token.value}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
