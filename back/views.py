@@ -50,11 +50,11 @@ def verify_login():
 
 
 def async_send_email(email, status, item_name):
-    thread = threading.Thread(target=send_status_email, args=(email,status,item_name))
+    thread = threading.Thread(target=send_status_email, args=(email,item_name, status))
     thread.start()
 
 def async_send_newItem_email(item_count, item_name, center_email):
-    thread = threading.Thread(target=send_newItem_email, args=(item_count,item_name, center_email))
+    thread = threading.Thread(target=send_newItem_email, args=(center_email, item_name, item_count))
     thread.start()
 
 @views.route("/get-items", methods=["POST"])

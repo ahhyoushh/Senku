@@ -5,7 +5,7 @@ from push_notifications import send_verification_email, serialiser, send_status_
 import threading
 
 def async_send_email(email, status, item_name):
-    thread = threading.Thread(target=send_status_email, args=(email,status,item_name))
+    thread = threading.Thread(target=send_status_email, args=(email,item_name, status))
     thread.start()
 
 # ✅ Corrected Blueprint definition
