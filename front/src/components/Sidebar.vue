@@ -53,7 +53,9 @@
         <slot></slot>
       
         <div class="navigation-links">
+          
           <a href="/dashboard" class="dashboard-link">Go to Dashboard</a>
+          <a href="/centers/login" class="center-login-link">Centers Page</a>
           <a href="/login" class="login-link">Login</a>
         </div>
       </div>
@@ -347,7 +349,14 @@ const handleSubmit = async () => {
 .dashboard-link:hover {
   color: #45a049;
 }
-
+.center-login-link {
+  display: inline-block;
+  color: #4CAF50;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
 .login-link {
   display: inline-block;
   color: #fff;
