@@ -2,6 +2,7 @@
     "name": "EW-Senku",
     "short_name": "Senku",
     "display": "standalone",
+    "start_url": "/",
     "icons": [
       {
         "src": "/img/icons/icon-192x192.png",

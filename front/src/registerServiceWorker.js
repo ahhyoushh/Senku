@@ -1,6 +1,13 @@
 /* eslint-disable no-console */
 
 import { register } from 'register-service-worker'
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(() => console.log("Service Worker Registered"));
+  });
+}
+
 
 if (process.env.NODE_ENV === 'production') {
   register(`${process.env.BASE_URL}service-worker.js`, {
