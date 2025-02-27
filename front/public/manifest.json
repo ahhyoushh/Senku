@@ -2,7 +2,9 @@
     "name": "EW-Senku",
     "short_name": "Senku",
     "display": "standalone",
-    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#42b983",
+    "start_url": "/index.html",
     "icons": [
       {
         "src": "/img/icons/icon-192x192.png",
