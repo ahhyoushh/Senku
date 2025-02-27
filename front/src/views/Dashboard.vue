@@ -38,6 +38,7 @@ onMounted(async () => {
 
 <template>
   <div class="dashboard-container">
+   <button @click="$router.push('/')">Home</button>
     <div class="items-container">
       <div class="items-content">
         <h1 class="text-2xl font-bold text-white mb-6 pt-6">Your Items</h1>
