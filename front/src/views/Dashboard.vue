@@ -88,11 +88,13 @@ onMounted(fetchItems);
 
 <template>
   <div class="dashboard-container">
-   <button @click="$router.push('/')">Home</button>
     <div class="items-container">
       <div class="items-content">
         <!-- Header with Stats -->
         <header class="dashboard-header">
+          <nav class="navbar">
+            <button @click="$router.push('/')" class="home-button">🏠 Home</button>
+          </nav>
           <div class="header-content">
             <h1 class="text-2xl font-bold text-white">Your Recycling Dashboard</h1>
             <p class="text-gray-400">Manage and track your electronic items</p>
@@ -654,5 +656,23 @@ onMounted(fetchItems);
     justify-content: flex-start;
     margin-top: 0.5rem;
   }
+}
+
+
+.home-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.home-button:hover {
+  background: rgba(255, 255, 255, 0.2)
 }
 </style>

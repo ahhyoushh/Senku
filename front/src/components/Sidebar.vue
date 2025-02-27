@@ -149,7 +149,7 @@ const handleSubmit = async () => {
   left: 0;
   height: 100vh;
   width: 360px;
-  background-color: #1a1a1a;
+  background-color: #10192A;
   color: #ffffff;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
   transform: translateX(-100%);
@@ -166,11 +166,11 @@ const handleSubmit = async () => {
 
 .sidebar-toggle {
   position: absolute;
-  left: calc(100% - 10px);
+  left: calc(100% - 0.5px);
   top: 20px;
-  width: 36px;
-  height: 36px;
-  background-color: #4CAF50;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -183,11 +183,11 @@ const handleSubmit = async () => {
 }
 
 .sidebar-toggle.sidebar-open {
-  left: calc(100% - 50px);
+  left: calc(98% - 50px);
 }
 
 .sidebar-toggle:hover {
-  background-color: #45a049;
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .toggle-icon {
@@ -355,7 +355,7 @@ const handleSubmit = async () => {
   font-size: 13px;
   font-weight: 500;
   padding: 6px 12px;
-  background-color: #333;
+  background-color: #4CAF50;
   border-radius: 4px;
   transition: all 0.2s ease;
 }
@@ -363,4 +363,23 @@ const handleSubmit = async () => {
 .login-link:hover {
   background-color: #444;
 }
+/* Add this to your `Dashboard.vue` or global CSS */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #11182D;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background:rgba(3, 39, 78, 0.86);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background:rgba(0, 87, 179, 0.73);
+}
+
 </style>
