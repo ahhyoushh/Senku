@@ -9,7 +9,7 @@ const errorMessage = ref("");
 const deleteItem = async (itemId) => {
   try {
     const response = await fetch(
-      `http://senku-1e1b.onrender.com/centers/delete-item`,
+      `https://senku-1e1b.onrender.com/centers/delete-item`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -29,7 +29,7 @@ const deleteItem = async (itemId) => {
 const approveItem = async (itemId) => {
   try {
     const response = await fetch(
-      `http://senku-1e1b.onrender.com/centers/approve`,
+      `https://senku-1e1b.onrender.com/centers/approve`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -64,7 +64,7 @@ onMounted(async () => {
 
   try {
     const response = await fetch(
-      `http://senku-1e1b.onrender.com/centers/get-items`,
+      `https://senku-1e1b.onrender.com/centers/get-items`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },

@@ -89,7 +89,7 @@ const handleSubmit = async () => {
   isSubmitting.value = true;
   try {
     const dataToSend = { ...formData.value, userCoordinates: props.coordinates };
-    const response = await fetch('http://senku-1e1b.onrender.com/list-item', {
+    const response = await fetch('https://senku-1e1b.onrender.com/list-item', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(dataToSend)
