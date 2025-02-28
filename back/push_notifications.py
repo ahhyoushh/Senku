@@ -4,7 +4,7 @@ import json
 from email.mime.text import MIMEText
 
 
-ngrok_ = "https://ewsenku.vercel.app/"
+ngrok_ = "https://ewsenku.vercel.app"
 SECRET_KEY = "SfS5JXWwmn"
 serialiser = URLSafeSerializer(SECRET_KEY)
 
