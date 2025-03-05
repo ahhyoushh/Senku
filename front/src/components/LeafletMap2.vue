@@ -90,7 +90,7 @@ onMounted(() => {
   // Your existing icon definitions
   var userIcon = new L.icon({
     iconUrl: 'https://i.ibb.co/B2WvF3vm/image.png',
-    iconSize: [35, 49.28],
+    iconSize: [25, 41],
     iconAnchor: [20, 39.5],
     popupAnchor: [-3, -40]
   });
