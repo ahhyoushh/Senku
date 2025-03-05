@@ -23,7 +23,7 @@ onMounted(() => {
   function onLocationFound(e) {
     var radius = e.accuracy;
     emit('coordinatesUpdate', [e.latlng.lng, e.latlng.lat]);
-    L.marker(e.latlng)
+    L.marker(e.latlng, {icon: userIcon})
       .addTo(map)
       .bindPopup("You are within " + radius + " meters from this point")
       .openPopup();
@@ -88,6 +88,13 @@ onMounted(() => {
   }
 
   // Your existing icon definitions
+  var userIcon = new L.icon({
+    iconUrl: 'https://i.ibb.co/B2WvF3vm/image.png',
+    iconSize: [35, 49.28],
+    iconAnchor: [20, 39.5],
+    popupAnchor: [-3, -40]
+  });
+  
   var refurbishIcon = new L.icon({
     iconUrl: 'https://i.ibb.co/HTVSvSnx/image-removebg-preview.png',
     iconSize: [35, 49.28],
