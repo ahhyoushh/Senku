@@ -49,7 +49,7 @@ Senku/
 
 - Ensure you have valid API keys for **Gemini API** and **Google Maps API**.
 - The platform works best with modern browsers for map and image functionality
-
+- **Note:** First run might take time to load as backend is hosted on render which requires cold start.
 
 ## Authors
 - [Ayush Bhalerao](https://github.com/ahhyoushh)
