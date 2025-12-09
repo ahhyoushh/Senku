@@ -49,3 +49,9 @@ Senku/
 
 - Ensure you have valid API keys for **Gemini API** and **Google Maps API**.
 - The platform works best with modern browsers for map and image functionality
+
+
+## Authors
+- [Ayush Bhalerao](https://github.com/ahhyoushh)
+- [Tanishk Bansode](https://github.com/tanishkbansode)
+
